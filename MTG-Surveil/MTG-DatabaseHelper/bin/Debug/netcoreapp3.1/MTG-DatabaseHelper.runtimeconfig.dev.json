@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CurlyBracket\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CurlyBracket\\.nuget\\packages"
+    ]
+  }
+}
